@@ -15,15 +15,3 @@
 
 
 
-## Contents
-
-- [Datasets](#datasets)
-- [Dialog](#dialog)
-- [Evaluation](#evaluation)
-- [Grammar](#grammar)
-- [Libraries](#libraries)
-- [Narrative Generation](#narrative-generation)
-- [Neural natural language generation](#neural-net-nlg)
-- [Papers and Articles](#papers)
-
-## Datasets
